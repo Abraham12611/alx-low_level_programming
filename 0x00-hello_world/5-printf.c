@@ -4,5 +4,5 @@
  * Return: Always 0
  */
 int main(void)
-{								printf("with proper grammar,\n")			return (0);
+{								printf("with proper grammar,\n");			return (0);
 }
