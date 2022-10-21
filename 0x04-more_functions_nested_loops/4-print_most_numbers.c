@@ -16,5 +16,5 @@ void print_most_numbers(void)
 
 		a++;
 	}
-	_putcahr('\n');
+	_putchar('\n');
 }
