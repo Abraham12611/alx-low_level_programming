@@ -1,22 +1,3 @@
-
-Sign up
-This repository has been archived by the owner on Aug 11, 2022. It is now read-only.
-B3zaleel
-/
-alx-low_level_programming
-Public archive
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-alx-low_level_programming/0x1E-search_algorithms/100-jump.c
-@B3zaleel
-B3zaleel Fix compilation issue
- 1 contributor
-36 lines (34 sloc)  901 Bytes
 #include <math.h>
 #include "search_algos.h"
 
